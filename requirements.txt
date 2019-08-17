@@ -9,3 +9,5 @@ awscli
 flake8
 youtube_dl
 python-dotenv>=0.5.1
+fastai
+librosa
