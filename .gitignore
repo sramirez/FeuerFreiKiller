@@ -1,3 +1,4 @@
 3rd-party-software/
 data/
 notebooks/.ipynb_checkpoints/
+app/export.pkl
